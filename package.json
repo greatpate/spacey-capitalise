@@ -2,6 +2,7 @@
 	"name": "spacey-capitalise",
 	"displayName": "Spacey Capitalise",
 	"description": "Capitalise and add spaces after each letter in the selected text",
+	"publisher": "daniel-pate",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.41.0"
@@ -34,5 +35,9 @@
 		"mocha": "^6.2.2",
 		"typescript": "^3.6.4",
 		"vscode-test": "^1.2.2"
-	}
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/greatpate/spacey-capitalise.git"
+	  }
 }
